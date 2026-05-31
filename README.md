@@ -1,2 +1,2 @@
 # Lumora
-Lumora is a modern, Laravel-inspired PHP framework built from the ground up to demystify how elegant frameworks really work. It ships with a fluent router, IoC container, Eloquent-style ORM, migrations, a Blade-like templating engine, and a developer-friendly CLI. No black boxes.
+Lumora is an expressive PHP framework inspired by the latest Laravel — rebuilt from scratch to make the magic visible. Includes a fluent router, service container with auto-resolution, Eloquent-style ORM, migrations, a Blade-like templating engine, middleware pipeline, and a clean CLI. Modern PHP, zero mystery.
